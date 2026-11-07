@@ -1,6 +1,6 @@
 ## Hi, I'm Federico Ojeda 👋
 
-**Full-Stack Developer** · React / Next.js · Node.js · TypeScript · AI Automation
+**Full-Stack Developer** · React / Next.js · Node.js · TypeScript · AI Automation<br>
 📍 Buenos Aires, Argentina · 🌎 Open to remote roles (US / Global)
 
 I build production web apps, internal business systems and AI-powered automation. Right now I'm:
